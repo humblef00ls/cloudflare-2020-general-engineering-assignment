@@ -1,0 +1,6 @@
+name = "cf-hiree"
+type = "javascript"
+account_id = "0f99f8f4897d68ce42103da52c705b22"
+workers_dev = true
+route = ""
+zone_id = ""
